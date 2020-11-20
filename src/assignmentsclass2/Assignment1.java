@@ -10,7 +10,7 @@ public class Assignment1 {
 		int add;
 		add = a + b;
 
-		System.out.println("Add of " + a + " and " + b + " is " + add);
+		System.out.println("Addition of " + a + " and " + b + " is " + add);
 
 	}
 
