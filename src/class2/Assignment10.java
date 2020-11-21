@@ -1,4 +1,4 @@
-package assignmentsclass2;
+package class2;
 
 //Extract the first half of a string of even length	
 public class Assignment10 {

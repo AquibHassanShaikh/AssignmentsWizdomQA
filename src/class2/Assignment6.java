@@ -1,4 +1,4 @@
-package assignmentsclass2;
+package class2;
 
 //Swap two variables without using third variable	
 public class Assignment6 {

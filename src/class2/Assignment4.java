@@ -1,4 +1,4 @@
-package assignmentsclass2;
+package class2;
 
 //Print the area and perimeter of a circle.	
 

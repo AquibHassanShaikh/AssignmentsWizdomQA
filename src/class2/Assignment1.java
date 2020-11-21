@@ -1,4 +1,4 @@
-package assignmentsclass2;
+package class2;
 
 //Assignment 1.	Write a Java program implementing Mathematical and Concatenate Operators	
 public class Assignment1 {

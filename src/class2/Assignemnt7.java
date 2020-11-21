@@ -1,4 +1,4 @@
-package assignmentsclass2;
+package class2;
 
 //Check whether Java is installed on your computer.	
 public class Assignemnt7 {

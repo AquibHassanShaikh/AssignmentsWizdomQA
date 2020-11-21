@@ -1,4 +1,4 @@
-package assignmentsclass2;
+package class2;
 
 
 ///Assignment 3. Convert a string into lowercase.	

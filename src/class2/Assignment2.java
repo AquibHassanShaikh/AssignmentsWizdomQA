@@ -1,4 +1,4 @@
-package assignmentsclass2;
+package class2;
 
 //Assignment 2.	Verify a number is Even or Odd	
 public class Assignment2 {

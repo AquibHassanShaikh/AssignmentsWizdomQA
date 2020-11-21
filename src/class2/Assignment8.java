@@ -1,4 +1,4 @@
-package assignmentsclass2;
+package class2;
 
 ///Compare two numbers	
 public class Assignment8 {

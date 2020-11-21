@@ -1,4 +1,4 @@
-package assignmentsclass2;
+package class2;
 
 ///Compute the area of a polygon
 public class Assignment9 {
